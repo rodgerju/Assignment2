@@ -1,0 +1,14 @@
+tr:nth-child(odd) {background-color: #7aba7a;}
+tr:nth-child(even) {background-color: #8a8aca;}
+tr:nth-child(1) {background-color: #ffffff;}
+th.firstCol {font-weight: normal;
+			 font-style: italic;}
+first {color: red;}
+third {color: blue;}
+dt:hover + dd{background-color:purple;}
+div.outer-content{background:pink; width:75%; margin-top:  20px; ;}
+div.inner-content{background-color:blue; 
+				   width:75%; 
+				   margin:0 auto;
+				   }
+div.img {background:grey; width:100px; height:125px; margin-top: 19px; float:left;}
